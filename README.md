@@ -1,7 +1,4 @@
-hangman_cvdpoll_jvwageningen
-============================
-
-Native-app Studio first assigment
+Native App Studio Evil Hangman assignment
 
 Proposal.
 
@@ -12,18 +9,19 @@ Het originele hangman spel waarbij de AI het je zo moeilijk mogelijk maakt.
 
 ## Features:<br>
 
-- statistieken bijhouden gewonnen verloren gespeeld<br>
-- hangman model die de stappen bijhoudt.<br>
-- het te raden woord.<br>
-- letters en gebruikte letters.<br>
-- frequentie tabel van te gebruiken letters.<br>
-- database met woordenlijst.<br>
-- verwisselbare taal voorlopen engels en nederlands.<br>
-- moeilijkheids graat een aantal letters.<br>
+- Statistieken bijhouden gewonnen verloren gespeeld<br>
+- Hangman model die de stappen bijhoudt.<br>
+- Het te raden woord.<br>
+- Letters en gebruikte letters.<br>
+- Frequentie tabel van te gebruiken letters.<br>
+- Database met woordenlijst.<br>
+- Verwisselbare taal voorlopen engels en nederlands.<br>
+- Moeilijkheids graat een aantal letters.<br>
 
-- multiplayer*
+## Optionele features: 
+- Multiplayer
 
-*optioneel.
+
 
 ## Gebruikte technieken: <br>
 
