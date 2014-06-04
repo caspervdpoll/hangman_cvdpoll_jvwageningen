@@ -5,11 +5,12 @@ Native-app Studio first assigment
 
 Proposal.
 
-titel Twisted Hangman.
+## Titel:<br>
+Twisted Hangman.
 
 Het originele hangman spel waarbij de AI het je zo moeilijk mogelijk maakt.
 
-features
+## Features:<br>
 
 -statistieken bijhouden gewonnen verloren gespeeld<br>
 -hangman model die de stappen bijhoudt.<br>
@@ -24,7 +25,7 @@ features
 
 *optioneel.
 
-gebruikte technieken
+## Gebruikte technieken: <br>
 
 -OpenGL<br>
 -Android SDK<br>
@@ -37,7 +38,7 @@ gebruikte technieken
 -PaintNet<br>
 -Google
 
-talen
+## Talen: <br>
 -JAVA<br>
 -XML<br>
 -SQL<br>
@@ -48,12 +49,12 @@ model animaties, layout<br>
 Casper:<br>
 database, functionaliteit, layout <br>
 
-Wireframes.
+##Wireframes:
 
-![statistieken](/doc/home.png)
+![home](/doc/home.png)
 
-![statistieken](/doc/opties.png)
+![opties](/doc/opties.png)
 
-![statistieken](/doc/singleplayer.png)
+![singleplayer](/doc/singleplayer.png)
 
 ![statistieken](/doc/statistieken.png)
