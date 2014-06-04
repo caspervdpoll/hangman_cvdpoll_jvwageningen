@@ -1,13 +1,13 @@
-Native App Studio Evil Hangman assignment
+Native App Studio Evil Hangman proposal
+========================================
 
-Proposal.
 
-## Titel:<br>
+### Titel:<br>
 Twisted Hangman.
 
 Het originele hangman spel waarbij de AI het je zo moeilijk mogelijk maakt.
 
-## Features:<br>
+### Features:<br>
 
 - Statistieken bijhouden gewonnen verloren gespeeld<br>
 - Hangman model die de stappen bijhoudt.<br>
@@ -18,12 +18,12 @@ Het originele hangman spel waarbij de AI het je zo moeilijk mogelijk maakt.
 - Verwisselbare taal voorlopen engels en nederlands.<br>
 - Moeilijkheids graat een aantal letters.<br>
 
-## Optionele features: 
+### Optionele features: 
 - Multiplayer
 
 
 
-## Gebruikte technieken: <br>
+### Gebruikte technieken: <br>
 
 - OpenGL<br>
 - Android SDK<br>
@@ -36,7 +36,7 @@ Het originele hangman spel waarbij de AI het je zo moeilijk mogelijk maakt.
 - PaintNet<br>
 - Google
 
-## Talen: <br>
+### Talen: <br>
 - JAVA<br>
 - XML<br>
 - SQL<br>
@@ -47,7 +47,7 @@ model animaties, layout<br>
 Casper:<br>
 database, functionaliteit, layout <br>
 
-##Wireframes:
+###Wireframes:
 
 ![home](/doc/home.png)
 
