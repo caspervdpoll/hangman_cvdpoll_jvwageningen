@@ -50,4 +50,10 @@ database, functionaliteit, layout <br>
 
 Wireframes.
 
-![statistieken](/path/to/img.jpg)
+![statistieken](/doc/home.png)
+
+![statistieken](/doc/opties.png)
+
+![statistieken](/doc/singleplayer.png)
+
+![statistieken](/doc/statistieken.png)
