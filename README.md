@@ -11,13 +11,13 @@ Het originele hangman spel waarbij de AI het je zo moeilijk mogelijk maakt.
 
 features
 
--statistieken bijhouden gewonnen verloren gespeeld
--hangman model die de stappen bijhoudt.
--woord
--letters en gebruikte letters
--frequentie tabel van te gebruiken letters
--database met woordenlijst
--verwisselbare taal voorlopen engels en nederlands
+-statistieken bijhouden gewonnen verloren gespeeld<br>
+-hangman model die de stappen bijhoudt.<br>
+-het te raden woord.<br>
+-letters en gebruikte letters.<br>
+-frequentie tabel van te gebruiken letters.<br>
+-database met woordenlijst.<br>
+-verwisselbare taal voorlopen engels en nederlands.
 
 -multiplayer*
 
@@ -25,26 +25,24 @@ features
 
 gebruikte technieken
 
--OpenGL
--Android SDK
--Java android libraries
--android.database.sqlite package
--Samsung Galaxy S4 & S5
--android kitkat 4.4.2
--Eclipse
--GitHub
--PaintNet
+-OpenGL<br>
+-Android SDK<br>
+-Java android libraries<br>
+-android.database.sqlite library<br>
+-Samsung Galaxy S4 & S5<br>
+-android kitkat 4.4.2<br>
+-Eclipse<br>
+-GitHub<br>
+-PaintNet<br>
 -Google
 
 talen
--JAVA
--XML
--SQL
+-JAVA<br>
+-XML<br>
+-SQL<br>
 
-Justin:
+Justin:<br>
+model animaties, layout<br>
 
-model animaties, layout
-
-Casper:
-
-database, functionaliteit, layout 
+Casper:<br>
+database, functionaliteit, layout <br>
