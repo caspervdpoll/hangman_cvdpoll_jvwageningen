@@ -49,3 +49,5 @@ Casper:<br>
 database, functionaliteit, layout <br>
 
 Wireframes.
+
+![statistieken](/path/to/img.jpg)
