@@ -17,7 +17,8 @@ features
 -letters en gebruikte letters.<br>
 -frequentie tabel van te gebruiken letters.<br>
 -database met woordenlijst.<br>
--verwisselbare taal voorlopen engels en nederlands.
+-verwisselbare taal voorlopen engels en nederlands.<br>
+-moeilijkheids graat een aantal letters.<br>
 
 -multiplayer*
 
@@ -46,3 +47,5 @@ model animaties, layout<br>
 
 Casper:<br>
 database, functionaliteit, layout <br>
+
+Wireframes.
