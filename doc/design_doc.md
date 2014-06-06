@@ -38,3 +38,9 @@
 - checkWord(string word, string guess)
 - showCoffin()
 
+
+## App design ##
+
+![first-time-enter](/doc/first-time-enter.png)
+![home-db](/doc/home.png)
+![statistics-db](/doc/singleplayer.png)
