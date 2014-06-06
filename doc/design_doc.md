@@ -12,29 +12,29 @@
 
 #### functions ####
 
-- getOptions(int user_id)
-- change_options(int id, string difficulty, string language, int word-length, string name)
+- getOptions(int user/_id)
+- changeOptions(int id, string difficulty, string language, int word/_length, string name)
 
 ### Statistics-class ###
 
 #### functions ####
 
-- getStatistics(int user_id)<br>
+- getStatistics(int user/_id)<br>
   return array(won, lost, played, difficulty)
-- UpdateStatistics(int user_id, string difficulty, string latest-status)
+- updateStatistics(int user/_id, string difficulty, string latest/_status)
 
 ### Game-class ###
 
 #### functions ####
 
-- init-game(user_id)
-- get-word(word_id)<br>
+- initGame(user/_id)
+- getWord(word/_id)<br>
   return string word
-- draw-scene()
+- drawScene()
 - checkLetter(char letter, string word)<br>
   return boolean
 - changeLetter(char letter, string status)
-- update-hangman(int difficulty, int step)
-- checkWord(string woord, string guess)
+- updateHangman(int difficulty, int step)
+- checkWord(string word, string guess)
 - showCoffin()
 
