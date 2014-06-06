@@ -16,7 +16,7 @@ Het originele hangman spel waarbij de AI het je zo moeilijk mogelijk maakt.
 - Frequentie tabel van te gebruiken letters.<br>
 - Database met woordenlijst.<br>
 - Verwisselbare taal voorlopen engels en nederlands.<br>
-- Moeilijkheids graat een aantal letters.<br>
+- Lengte van de woorden kunnen bepalen van [1,..,n], met n de het aantal letters van het grootste woord in de woordenlijst. <br>
 
 ### Optionele features: 
 - Multiplayer
@@ -25,7 +25,7 @@ Het originele hangman spel waarbij de AI het je zo moeilijk mogelijk maakt.
 
 ### Gebruikte technieken: <br>
 
-- OpenGL<br>
+- OpenGL of image viewer<br>
 - Android SDK<br>
 - Java android libraries<br>
 - android.database.sqlite library<br>

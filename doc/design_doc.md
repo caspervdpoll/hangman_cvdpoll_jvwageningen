@@ -6,6 +6,16 @@
 ![word-db](/doc/words-table.png)
 ![statistics-db](/doc/Statistics-table.png)
 
+Word\_length is opgenomen in de user database, omdat we een optionele multiplayer feature op het oog hebben en die zouden we nodig hebben om de spelers aan elkaar te matchen. Je moet immers hetzelfde woord raden en dat kan alleen maar als ze dezelfde lengte hebben.
+
+***TODO***
+User table difficulty moet integer zijn.
+
+
+## Highscore
+Highscore is determined by: <br> # of tries / # number of letters
+
+
 ## Classes ##
 
 ### User-class ###
@@ -38,6 +48,21 @@
 - checkWord(string word, string guess)
 - showCoffin()
 
+###Database handler class
+
+- connect()
+  return database
+- disconnect(database)
+  return SUCCES or ERROR
+- change\_user(int user\_id)
+
+###Activities
+
+- Main Activity
+  * Is the main screen and will contain the option and how to play view
+
+- Singleplayer Activity
+  * Is the game screen for singleplayer and will contain functions for drawing and changing the scene when needed.
 
 ## App design ##
 
