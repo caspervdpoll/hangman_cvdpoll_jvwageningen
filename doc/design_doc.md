@@ -41,7 +41,7 @@
 
 ## App design ##
 
-![first-time-enter](/doc/image_design_doc/first_time_enter.png =280x420)
+![first-time-enter](/doc/image_design_doc/first_time_enter.png)
 ![home](/doc/image_design_doc/home.png)
 ![singleplayer](/doc/image_design_doc/singleplayer.png)
 ![statistics](/doc/image_design_doc/statistics.png)
