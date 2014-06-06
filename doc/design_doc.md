@@ -59,15 +59,10 @@ Highscore is determined by: <br> # of tries / # number of letters
 ###Activities
 
 - Main Activity
-  * Is the main screen and wll
+  * Is the main screen and will contain the option and how to play view
 
-
-####Singleplayer Activity
-
-####HowToPlayActivity
-
-####Singleplayer Activity
-
+- Singleplayer Activity
+  * Is the game screen for singleplayer and will contain functions for drawing and changing the scene when needed.
 
 ## App design ##
 
