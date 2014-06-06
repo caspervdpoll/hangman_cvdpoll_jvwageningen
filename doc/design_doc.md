@@ -60,6 +60,8 @@ Highscore is determined by: <br> # of tries / # number of letters
 
 - Main Activity
   * Is the main screen and wll
+
+
 ####Singleplayer Activity
 
 ####HowToPlayActivity
