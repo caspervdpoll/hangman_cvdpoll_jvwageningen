@@ -68,6 +68,7 @@ Highscore is determined by: <br> # of tries / # number of letters
 
 ![first-time-enter](/doc/image_design_doc/first_time_enter.png)
 ![home](/doc/image_design_doc/home.png)
+![choose_user](/doc/image_design_doc/choose_user.png)
 ![singleplayer](/doc/image_design_doc/singleplayer.png)
 ![statistics](/doc/image_design_doc/statistics.png)
 ![options](/doc/image_design_doc/options.png)
