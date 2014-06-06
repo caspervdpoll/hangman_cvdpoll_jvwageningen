@@ -41,6 +41,11 @@
 
 ## App design ##
 
-![first-time-enter](/doc/first-time-enter.png)
-![home-db](/doc/home.png)
-![statistics-db](/doc/singleplayer.png)
+![first-time-enter](/doc/first_time_enter.png)
+![home](/doc/home.png)
+![singleplayer](/doc/singleplayer.png)
+![statistics](/doc/statistics.png)
+![options](/doc/options.png)
+![how_to_play_1](/doc/how_to_play_1.png)
+![how_to_play_2](/doc/how_to_play_2.png)
+![how_to_play_3](/doc/how_to_play_3.png)
