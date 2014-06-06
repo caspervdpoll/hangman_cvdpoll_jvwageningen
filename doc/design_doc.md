@@ -41,11 +41,11 @@
 
 ## App design ##
 
-![first-time-enter](/doc/first_time_enter.png)
-![home](/doc/home.png)
-![singleplayer](/doc/singleplayer.png)
-![statistics](/doc/statistics.png)
-![options](/doc/options.png)
-![how_to_play_1](/doc/how_to_play_1.png)
-![how_to_play_2](/doc/how_to_play_2.png)
-![how_to_play_3](/doc/how_to_play_3.png)
+![first-time-enter](/doc/image_design_doc/first_time_enter.png)
+![home](/doc/image_design_doc/home.png)
+![singleplayer](/doc/image_design_doc/singleplayer.png)
+![statistics](/doc/image_design_doc/statistics.png)
+![options](/doc/image_design_doc/options.png)
+![how_to_play_1](/doc/image_design_doc/how_to_play_1.png)
+![how_to_play_2](/doc/image_design_doc/how_to_play_2.png)
+![how_to_play_3](/doc/image_design_doc/how_to_play_3.png)
