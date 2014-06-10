@@ -8,7 +8,7 @@
     tools:ignore="MergeRootFrame" >
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/singleplayer"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
@@ -22,10 +22,10 @@
         android:textSize="25sp" />
     
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/twistedHangman"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/button1"
+        android:layout_above="@+id/singleplayer"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="41dp"
         android:layout_weight="1.08"
@@ -36,10 +36,10 @@
         android:textSize="30sp" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/beat"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/textView3"
+        android:layout_above="@+id/twistedHangman"
         android:layout_alignParentLeft="true"
         android:layout_marginBottom="29dp"
         android:gravity="center"
@@ -49,10 +49,10 @@
         android:textSize="20sp" />
 
     <TextView
-        android:id="@+id/textView1"
+        android:id="@+id/hello"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/textView2"
+        android:layout_above="@+id/beat"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="24dp"
         android:layout_weight="1.08"
@@ -63,40 +63,12 @@
         android:textSize="20sp" />
 
     <Button
-        android:id="@+id/button2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="370dp"
-        android:background="@drawable/rounded"
-        android:layout_marginLeft="15sp"
-        android:layout_marginRight="15sp"
-        android:radius="6dp"
-        android:text="Statistics"
-        android:textColor="@color/white"
-        android:textSize="25sp" />
-
-    <Button
-        android:id="@+id/button3"
+        android:id="@+id/options"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:background="@drawable/rounded"
-        android:layout_marginLeft="15sp"
-        android:layout_marginRight="15sp"
-        android:layout_marginTop="315dp"
-        android:radius="6dp"
-        android:text="How to play"
-        android:textColor="@color/white"
-        android:textSize="25sp" />
-
-    <Button
-        android:id="@+id/button4"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_below="@+id/textView3"
-        android:layout_marginTop="55dp"
+        android:layout_below="@id/singleplayer"
+        android:layout_marginTop="10dp"
         android:background="@drawable/rounded"
         android:layout_marginLeft="15sp"
         android:layout_marginRight="15sp"
@@ -105,4 +77,33 @@
         android:textColor="@color/white"
         android:textSize="25sp" />
 
+     <Button
+        android:id="@+id/howToPlay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/options"
+        android:background="@drawable/rounded"
+        android:layout_marginLeft="15sp"
+        android:layout_marginRight="15sp"
+        android:layout_marginTop="10dp"
+        android:radius="6dp"
+        android:text="How to play"
+        android:textColor="@color/white"
+        android:textSize="25sp" />
+     
+     <Button
+        android:id="@+id/statistics"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/howToPlay"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded"
+        android:layout_marginLeft="15sp"
+        android:layout_marginRight="15sp"
+        android:radius="6dp"
+        android:text="Statistics"
+        android:textColor="@color/white"
+        android:textSize="25sp" />
 </RelativeLayout>
