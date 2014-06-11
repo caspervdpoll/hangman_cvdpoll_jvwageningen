@@ -1,7 +1,6 @@
 package com.example.twisted_hangman;
 
 import android.support.v7.app.ActionBarActivity;
-import android.support.v7.app.ActionBar;
 import android.support.v4.app.Fragment;
 import android.content.Context;
 import android.content.Intent;
@@ -12,7 +11,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.os.Build;
 import android.view.View.OnClickListener;
 
 public class MainActivity extends ActionBarActivity {
