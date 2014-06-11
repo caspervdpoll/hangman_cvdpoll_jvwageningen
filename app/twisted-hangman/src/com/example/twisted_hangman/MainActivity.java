@@ -45,8 +45,17 @@ public class MainActivity extends ActionBarActivity {
  
 			@Override
 			public void onClick(View arg0) {
-			    Intent intent = new Intent(context, singleplayerActivity.class);
-                            startActivity(intent);   
+				Intent intent = new Intent(context, newuserActivity.class);
+                startActivity(intent);
+				/*
+				 if(usertable == empty) {
+			    	Intent intent = new Intent(context, newuserActivity.class);
+                    startActivity(intent);
+                 } else {
+                 	Intent intent = new Intent(context, chooseuserActivity.class);
+                    startActivity(intent);
+                 }
+ 				*/
  
 			}
  
